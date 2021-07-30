@@ -1,9 +1,9 @@
 ﻿# Bird Watching Helper
-Bird watching is an enjoyable and intresting passtime.
+Bird watching is an enjoyable passtime that millions of people in the U.S. partake in each year. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Martin | The Calhoun School | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
