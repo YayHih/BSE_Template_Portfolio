@@ -19,4 +19,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
 My first milestone was setting up the Rasberry Pi as well as making sure the computer vision worked. However, my endevours were fraught with technical errors, displaying open cv error messages. After some time debugging, I intsalled the correct version of open cv, as well as enabling the camera to turn on, on the Rasberry Pi.
 
-[![First Milestone](https://drive.google.com/file/d/1ddnC_ZFNNT9vgecwry8ntWDR8C-TIx7j/view?usp=sharing)](https://youtu.be/SK4YykPKFP8 "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://user-images.githubusercontent.com/78941861/128244086-b936942a-267b-4a61-a1d4-e33e8daaed22.png)
+](https://youtu.be/SK4YykPKFP8 "First Milestone"){:target="_blank" rel="noopener"}
