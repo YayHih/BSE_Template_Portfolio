@@ -15,7 +15,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone entailed making my own dataset, as well as training my own ML model.
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://cdn.discordapp.com/attachments/369201624834375692/875097072200712192/IMG_20210811_152235.jpg)](https://www.youtube.com/watch?v=ASZvPjzd0L0 "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
 My first milestone was setting up the Paspberry Pi as well as making sure the computer vision worked. However, my endevours were fraught with technical errors, displaying open cv error messages. After some time debugging, I intsalled the correct version of open cv, as well as enabling the camera to turn on, on the Rasberry Pi.
 
