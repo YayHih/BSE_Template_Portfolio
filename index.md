@@ -15,9 +15,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 In my second milestone, I moved over from a TensorFlow model to a Nanonetsmodel. Because of this switch, there is no longer a 2 second lag behind the live feed, and there is a greater level of accuracy with the Nanonets model as it goes to a server for all of its processes. In this milestone I have also trained my own dataset of birds, so my model can correctly identify each type.
 
-[![Second Milestone](https://cdn.discordapp.com/attachments/369201624834375692/875097072200712192/IMG_20210811_152235.jpg)](https://www.youtube.com/watch?v=ASZvPjzd0L0 "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://cdn.discordapp.com/attachments/369201624834375692/875097072200712192/IMG_20210811_152235.jpg)](https://www.youtube.com/watch?v=ASZvPjzd0L0 "Second Milestone")
 # First Milestone
 My first milestone was setting up the Raspberry Pi as well as making sure the computer vision worked. However, my endeavors were fraught with technical errors, displaying Open CV error messages. After some time debugging, I installed the correct version of Open CV. I also enabled the camera on the Raspberry Pi.
 
 [![First Milestone](https://user-images.githubusercontent.com/78941861/128244086-b936942a-267b-4a61-a1d4-e33e8daaed22.png)
-](https://youtu.be/SK4YykPKFP8 "First Milestone"){:target="_blank" rel="noopener"}
+](https://youtu.be/SK4YykPKFP8 "First Milestone")
