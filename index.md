@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone entailed making my own dataset, as well as training my own ML model.
+In my second milestone, I have moved over from a tensorflow model, to one of nanonets. Because of this switch, there is no longer a 2 second lag behind the live feed, and there is a greater level of accuracy with the nanonets model as it goes to a server for all of its prociesies. In this milestone I have also trained my own data set of birds, so my model can correctly identify each type.
 
 [![Second Milestone](https://cdn.discordapp.com/attachments/369201624834375692/875097072200712192/IMG_20210811_152235.jpg)](https://www.youtube.com/watch?v=ASZvPjzd0L0 "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
