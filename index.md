@@ -10,7 +10,7 @@ Bird watching is an enjoyable passtime that millions of people in the U.S. parta
 # Final Milestone
 In my final milestone, I implemented a UI so my device can be used remotely.
 
-[![Final Milestone](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbc.ca%2Fradio%2Fquirks%2Fmay-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290%2Fhow-the-california-condor-escaped-extinction-and-a-genetic-bottleneck-1.6027240&psig=AOvVaw0uqhzNSEWwOzjG0akSpg9d&ust=1628886579382000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjs9sWprPICFQAAAAAdAAAAABAD )](https://youtu.be/NVnKngwbb3U "Final Milestone")
+[![Final Milestone](https://i.cbc.ca/1.6027283.1621019863!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/condor-face.jpg)](https://youtu.be/NVnKngwbb3U "Final Milestone")
 
 # Second Milestone
 In my second milestone, I moved over from a TensorFlow model to a Nanonetsmodel. Because of this switch, there is no longer a 2 second lag behind the live feed, and there is a greater level of accuracy with the Nanonets model as it goes to a server for all of its processes. In this milestone I have also trained my own dataset of birds, so my model can correctly identify each type.
