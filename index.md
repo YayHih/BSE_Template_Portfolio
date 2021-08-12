@@ -8,9 +8,9 @@ Bird watching is an enjoyable passtime that millions of people in the U.S. parta
 ![Headstone Image](![IMG_20210812_161907](https://user-images.githubusercontent.com/78941861/129264658-ce5f9786-0a59-4eab-8a13-ea3de8dec14e.jpg))
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+In my final milestone, I implemented a UI so my device can be used remotely.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://youtu.be/NVnKngwbb3U )](https://youtu.be/NVnKngwbb3U "Final Milestone")
 
 # Second Milestone
 In my second milestone, I moved over from a TensorFlow model to a Nanonetsmodel. Because of this switch, there is no longer a 2 second lag behind the live feed, and there is a greater level of accuracy with the Nanonets model as it goes to a server for all of its processes. In this milestone I have also trained my own dataset of birds, so my model can correctly identify each type.
