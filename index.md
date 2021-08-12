@@ -5,7 +5,7 @@ Bird watching is an enjoyable passtime that millions of people in the U.S. parta
 |:--:|:--:|:--:|:--:|
 | Martin | The Calhoun School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](![IMG_20210812_161907](https://user-images.githubusercontent.com/78941861/129264658-ce5f9786-0a59-4eab-8a13-ea3de8dec14e.jpg))
+![Headstone Image](https://user-images.githubusercontent.com/78941861/129264658-ce5f9786-0a59-4eab-8a13-ea3de8dec14e.jpg)
   
 # Final Milestone
 In my final milestone, I implemented a UI so my device can be used remotely.
