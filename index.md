@@ -5,7 +5,7 @@ Bird watching is an enjoyable passtime that millions of people in the U.S. parta
 |:--:|:--:|:--:|:--:|
 | Martin | The Calhoun School | Electrical Engineering | Incoming Senior
 
-![Headstone Image](![IMG_20210812_161907](https://user-images.githubusercontent.com/78941861/129264117-10093bbd-0987-4b68-8378-6f9bc4403455.jpg))
+![Headstone Image](![IMG_20210812_161907](https://user-images.githubusercontent.com/78941861/129264658-ce5f9786-0a59-4eab-8a13-ea3de8dec14e.jpg))
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
