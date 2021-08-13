@@ -7,7 +7,7 @@ Bird watching is an enjoyable passtime that millions of people in the U.S. parta
 
 ![Headstone Image](https://user-images.githubusercontent.com/78941861/129264658-ce5f9786-0a59-4eab-8a13-ea3de8dec14e.jpg)
 # Demo Night
-In demo night, I presented my project in front of a live audiance, followed by a short Q&A about my project.
+In demo night, I presented my project in front of a live audiance.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xj6ebaXeTRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
