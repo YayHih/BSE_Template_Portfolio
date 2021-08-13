@@ -9,6 +9,8 @@ Bird watching is an enjoyable passtime that millions of people in the U.S. parta
 # Demo Night
 In demo night, I presented my project in front of a live audiance, followed by a short Q&A.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xj6ebaXeTRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Final Milestone
 In my final milestone, I implemented a UI so my device can be used remotely. This UI made it posible to fully run the program, as well as operate the zoom function without a keyboard and mouse.
 
