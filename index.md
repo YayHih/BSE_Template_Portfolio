@@ -1,5 +1,4 @@
-﻿#
- <header> Bird Watching Helper </header>
+﻿#Bird Watching Helper
 Bird watching is an enjoyable passtime that millions of people in the U.S. partake in each year. My project is oreinted towards bird watchers who are just getting into the hobby, or someone who is just genuinely intrested in bird watching.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
