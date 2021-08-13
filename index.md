@@ -8,7 +8,7 @@ Bird watching is an enjoyable passtime that millions of people in the U.S. parta
 ![Headstone Image](https://user-images.githubusercontent.com/78941861/129264658-ce5f9786-0a59-4eab-8a13-ea3de8dec14e.jpg)
   
 # Final Milestone
-In my final milestone, I implemented a UI so my device can be used remotely.
+In my final milestone, I implemented a UI so my device can be used remotely. This UI made it posible to fully run the program, as well as operate the zoom function without a keyboard and mouse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NVnKngwbb3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
